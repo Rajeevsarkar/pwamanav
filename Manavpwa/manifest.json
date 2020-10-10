@@ -1,0 +1,9 @@
+{
+	"name":"manav pwa ",
+	"short_name":"pwa",
+	"start_url":"/index.html",
+	"background_color":"#6dcdb1",
+	"theme_color":"#009578"
+	
+}
+
